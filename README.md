@@ -6,4 +6,4 @@ Throughout the project you will be able to find:
 
 - Data cleaning and standardization.
 - Analysis of Relevant features to build the model. 
-- Multiple Linear Regression Model to predict a car's sellinig price.
+- Multiple Linear Regression Model to predict a car's selling price.
